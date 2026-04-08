@@ -1,4 +1,7 @@
 git init = sirve para iniciar 
-git add nombredelarchivo.txt  /  git commit -m "nombredelarchivo.txt"
+git add nombredelarchivo.txt = prepara todos los archivos nuevos o modificados para ser guardados.
+git commit -m "nombredelarchivo.txt" = guarda todos los cambios localmente en tu computadora con una etiqueta descriptivagit
+git clone <url del repositorio> = descarga el proyecto por primera vez de github a tu computadora
 git push origin nombredelarama = subis o actualizas el contenido de la rama
 git pull origin nombredelarama = sirve para bajar cambios
+git checkout -b nombredelarama = crea una rama personal y te cambia hacia ella. asi trabajas sin romper lo que hizo el resto
