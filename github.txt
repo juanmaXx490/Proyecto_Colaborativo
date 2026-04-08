@@ -1,0 +1,4 @@
+git init = sirve para iniciar 
+git add nombredelarchivo.txt  /  git commit -m "nombredelarchivo.txt"
+git push origin nombredelarama = subis o actualizas el contenido de la rama
+git pull origin nombredelarama = sirve para bajar cambios
