@@ -1,1 +1,2 @@
 Bienvenidos a nuestro increíble proyecto del taller de programación!!
+En este apartado veremos todo lo que trata git y github
